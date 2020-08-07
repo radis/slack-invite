@@ -89,7 +89,9 @@ tsParticles.load("tsparticles", {
         distance: 150,
         line_linked: {
           opacity: 1,
-          color: color_purple,
+          color: "random",
+          blink: false,
+          consent: false,
         },
       },
       bubble: {
