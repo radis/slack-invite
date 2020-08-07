@@ -89,6 +89,7 @@ tsParticles.load("tsparticles", {
         distance: 150,
         line_linked: {
           opacity: 1,
+          color: "#537665", // use average color until 'grab' is able to find the particle color. https://github.com/matteobruni/tsparticles/issues/669
         },
       },
       bubble: {
