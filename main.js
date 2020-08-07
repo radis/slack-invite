@@ -50,9 +50,9 @@ tsParticles.load("tsparticles", {
     line_linked: {
       enable: true,
       distance: 50,
-      color: color_green,
+      color: "random",
       opacity: 1,
-      width: 8
+      width: 8, 
     },
     move: {
       enable: true,
