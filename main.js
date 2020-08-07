@@ -1,7 +1,7 @@
 var color = "#75A5B7";
 var color_green = "#30C328";
 var color_purple = "#7628A1";
-var maxParticles = 5;
+var maxParticles = 6;
 
 // tsParticles Config.
 tsParticles.load("tsparticles", {
@@ -52,7 +52,7 @@ tsParticles.load("tsparticles", {
       distance: 50,
       color: color_green,
       opacity: 1,
-      width: 5
+      width: 8
     },
     move: {
       enable: true,
