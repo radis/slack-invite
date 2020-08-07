@@ -1,24 +1,11 @@
 // Colors
 $text: white;
 $link: #e34234;
-$link-hover: #7628A1;
+$link-hover: #ba160c;
 
 canvas {
   display: block;
   vertical-align: bottom;
-}
-
-#tsparticles {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: {
-    image: url(https://marcbruederlin.github.io/particles.js/img/background.jpg);
-    position: bottom;
-    repeat: no-repeat;
-    color: black;
-    size: cover;
-  }
 }
 
 .text {
